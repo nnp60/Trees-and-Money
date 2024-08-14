@@ -13,4 +13,4 @@ Understand whether tree characteristics have any type of correlation with the in
 ## Additional Analysis
 1. Showcasing the different types of prominent trees within each borough may give us good possible indicators of tree health and tree size.
    - This type of analysis can also help us dig deeper into knowing the underlying terrain of each boroughs. Manhattan is very business (many skyscrapers) oriented while Queens is more residential.
-2. Finding additional data taht relates to air quality through AQI (air quality index) and oxygen metrics can help us see the impact of health in certain zipcodes. 
+2. Finding additional data that relates to air quality through AQI (air quality index) and oxygen metrics can help us see the impact of health in certain zipcodes based on tree type, health and size. 

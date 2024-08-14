@@ -1,8 +1,8 @@
 # Trees-and-Money
-I created a dashboard to visualize data regarding NYC's boroughs top examine a possible relationship between tree growth and income brackets.  
+I created a dashboard to visualize data regarding NYC's boroughs too examine a possible relationship between tree growth and income brackets.  
 
 ## Objective
-Understand the frequency of collisions at various US airports and their potential costs to repair machinery or assess wildlife loss. 
+Understand whether tree characteristics have any type of correlation with the income of residents in NYC's 5 boroughs. 
 
 ## Findings
 1. The busiest airport carrying the most passengers in 2014 was Atlanta's Hartsfield-Jackon airport while New York's LaGuardia faced the lowest passenger traffic.

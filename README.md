@@ -5,12 +5,10 @@ I created a dashboard to visualize data regarding NYC's boroughs too examine a p
 Understand whether tree characteristics have any type of correlation with the income of residents in NYC's 5 boroughs. 
 
 ## Findings
-1. The busiest airport carrying the most passengers in 2014 was Atlanta's Hartsfield-Jackon airport while New York's LaGuardia faced the lowest passenger traffic.
-2. Across these airports, more than 30,000 collisions took place between airplanes/airplane related equipment and wildlife.
-3. Majority of collisions (95%) did not result in any financial damage to the carrier while 5% of collisions did. This 5% equated to nearly $100 million worth of damage in wildlife and/or aircraft eqiupment.
-4. LaGuardia Airport had the most damage from its collisions where 99% of the damage came from 1 collision. This collision noted that the aircraft was destroyed.
-5. Dallas, Denver, and LaGuardia led the country in first, second, and third most collisions respectively. However, Laguardia and Denver airports were top 2 in cost per collision while Dallas was just outside the top 10. 
-
+1. Manhattan is the borough with the highest mean income of $150k and highest median income of $100k. All other boroughs are comfortably less than $100k by both average income metrics.
+2. Queens has almost 1/3 of the city's tree population followed by Brooklyn. Manhattan has the least number of trees.
+3. Queens also has the largest average trunk diameter size of over 18 inches while Manhattan has the smallest at less than 11 inches.
+4. In all boroughs except, Brooklyn, there were more trees deemed within "good" and "fair" health in richest zipcodes in that borough compared to the poorest zipcode in that borough.
 
 ## Additional Analysis
 1. Creating a dashboard that specifically analyzes the impact on animals across the country could be a next step.

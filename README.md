@@ -11,7 +11,6 @@ Understand whether tree characteristics have any type of correlation with the in
 4. In all boroughs except, Brooklyn, there were more trees deemed within "good" and "fair" health in richest zipcodes in that borough compared to the poorest zipcode in that borough.
 
 ## Additional Analysis
-1. Creating a dashboard that specifically analyzes the impact on animals across the country could be a next step.
-    - Of all the wildlife affected, birds such as geese, pigeons, eagles, hawks and others seem to most caught in the crossfire with aircrafts.
-2. An airline airline breakdown would be very interesting to visualize and monitor. I'd be able to pick up on potential patterns like whether or not a specific airline was more careless or incurred more damages. 
-    - The Big 4 airlines: United, Southwest, Jetblue, and Delta may be able to survive several multi-millionare dollar collisions both from a financial and publicity standpoint. Yet, how about smaller, lesser known carriers? 
+1. Showcasing the different types of prominent trees within each borough may give us good possible indicators of tree health and tree size.
+   - This type of analysis can also help us dig deeper into knowing the underlying terrain of each boroughs. Manhattan is very business (many skyscrapers) oriented while Queens is more residential.
+2. Finding additional data taht relates to air quality through AQI (air quality index) and oxygen metrics can help us see the impact of health in certain zipcodes. 
